@@ -12,6 +12,7 @@ The main objective was to create a basic, interactive dashboard that visualizes 
 🛠️ Tools Used
 
 Data Preparation: Python (Pandas)
+
 Visualization & Analysis: Tableau
 
 📁 Repository Files
